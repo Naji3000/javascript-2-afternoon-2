@@ -91,15 +91,15 @@ var nums = [1,2,3,6,22,98,45,23,22,12];
 
 //Code Here
 
-let arr = [];
+let see = [];
 
 function evenFinder(nums){
   for(i = 0; i < nums.length; i++) {
       if (nums[i] % 2 === 0){
-        arr.push(nums[i]);
+        see.push(nums[i]);
       }
   }
-    return arr;
+    return see;
 } 
 
 
