@@ -130,7 +130,23 @@ var numbersArray = [1,2,34,54,55,34,32,11,19,17,54,66,13];
 
 //Code Here
 
+// let even = []
+// let odd = []
+// function divider(numbersArray)
+// {
+//   for(i = 0; i < numbersArray.length; i++) {
+//     if (numersArray[i] % 2 === 0){
+//       even.push(numbersArray[i]);
+//     }
+//       for(i = 0; i < numbersArray.length; i--) {
+//         if (numersArray[i] % 2 === 0){
+//           odd.push(numbersArray[i]);
+//     }
+// }
+//   return even;
+// }
 
+// divider(numbersArray,);
 
 ////////// PROBLEM 7 //////////
 
